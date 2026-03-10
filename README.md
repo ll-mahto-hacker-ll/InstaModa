@@ -43,8 +43,8 @@ $ python Run.py
 
 If you find this project useful and would like to support its development, consider making a donation:
 
-- [Trakteer](https://trakteer.id/rozhak_official/tip)
-- [PayPal](https://paypal.me/rozhak9)
+- [Trakteer](https://trakteer.id/Zhangweii/tip)
+- [PayPal](https://paypal.me/Zhangweii)
 
 ## Screenshot
 
