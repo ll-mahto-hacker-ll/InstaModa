@@ -22,7 +22,7 @@
 ```
 $ apt update -y && apt upgrade -y
 $ pkg install git python-pip
-$ git clone https://github.com/RozhakLabs/InstaModa.git
+$ git clone https://github.com/ll-mahto-hacker-ll/InstaModa.git
 $ cd "InstaModa"
 $ python -m pip install -r requirements.txt
 $ python Run.py
